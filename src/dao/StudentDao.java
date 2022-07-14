@@ -13,7 +13,7 @@ public interface StudentDao {
 
 	//根据id删除学院信息
 	int deleteStudent(int id);
-	
+	//test
 	
 	//根据id查询学员
 	Student findStudent(int id);
